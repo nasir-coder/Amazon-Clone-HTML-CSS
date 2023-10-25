@@ -8,9 +8,7 @@ This project is a basic Amazon clone built with HTML and CSS. It aims to replica
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
@@ -36,4 +34,5 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone this repository:
 
    ```bash
+   
    git clone https://github.com/your-username/amazon-clone.git
