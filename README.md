@@ -12,7 +12,7 @@ This project is a basic Amazon clone built with HTML and CSS. It aims to replica
 
 ## Demo
 
-You can view a live demo of this project [here](insert-demo-link-here).
+You can view a live demo of this project [here](file:///Users/nasir_macns/Downloads/Amazon-Clone-main/index.html).
 
 ## Features
 
